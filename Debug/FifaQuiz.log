@@ -1,0 +1,14 @@
+﻿  AskQuestion.cpp
+  FifaQuiz.cpp
+C:\Users\Tushar\Desktop\FifaQuiz\FifaQuiz.cpp(254,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tushar\Desktop\FifaQuiz\FifaQuiz.cpp(257,16): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Tushar\Desktop\FifaQuiz\FifaQuiz.cpp(257,80): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Tushar\Desktop\FifaQuiz\FifaQuiz.cpp(260,21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Tushar\Desktop\FifaQuiz\FifaQuiz.cpp(260,85): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Graphics.cpp
+  Match.cpp
+  Penalty.cpp
+  Player.cpp
+  Generating Code...
+  sqlite3.c
+  FifaQuiz.vcxproj -> C:\Users\Tushar\Desktop\FifaQuiz\Debug\FifaQuiz.exe
